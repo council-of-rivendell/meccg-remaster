@@ -26,6 +26,8 @@ You can check the Changes Guide to know what changes have been applied to each c
 
 * Similar cards have been altered based on the above criteria.
 
+* Card specific rules from Rules Book have been applied. 
+
 ## Report issues
 
 If you want to report any issue in this remaster, you can send an email to [info@meccg.es](mailto:info@meccg.es)
