@@ -22,15 +22,15 @@ You can check the Changes Guide to know what changes have been applied to each c
 
 * The texts of the Wizards and Lidless Eye versions have been matched.
 
-* Errata and clarifications from the CoE Annual Vote have been applied.
-
 * Similar cards have been altered based on the above criteria.
 
 * Card specific rules from Rules Book have been applied. 
 
+* Future CRF changes will be applied.
+
 ## Report issues
 
-If you want to report any issue in this remaster, you can send an email to [info@meccg.es](mailto:info@meccg.es)
+If you want to report any issue in this remaster, you can send an email to [info@meccg.com](mailto:info@meccg.com)
 
 ## About Remaster Team
 
