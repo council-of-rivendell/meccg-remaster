@@ -36,7 +36,7 @@ If you want to report any issue in this remaster, you can send an email to [info
 
 **Developed by:** Kodi
 
-**Contributors:** Pedro Mellado, Mordakai, Durin's Son, Alaster, jarruego, Filgonfin, Jaume Sabaté, Pegaso
+**Contributors:** Pedro Mellado, Mordakai, Theo, Durin's Son, Alaster, jarruego, Filgonfin, Jaume Sabaté, Pegaso
 
 **Special thanks:** Coleman Charlton, Eric Dane, Temujin, Vastor, rezwits
 
